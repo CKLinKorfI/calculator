@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="result_zero" translatable="false">0</string>
+
+    <string name="btn_clear" translatable="false">C</string>
+    <string name="btn_divide" translatable="false">/</string>
+    <string name="btn_multiply" translatable="false">*</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_minus" translatable="false">-</string>
+    <string name="btn_plus" translatable="false">+</string>
+    <string name="btn_equals" translatable="false">=</string>
+    <string name="btn_dot" translatable="false">.</string>
+
+    <string name="digit_0" translatable="false">0</string>
+    <string name="digit_1" translatable="false">1</string>
+    <string name="digit_2" translatable="false">2</string>
+    <string name="digit_3" translatable="false">3</string>
+    <string name="digit_4" translatable="false">4</string>
+    <string name="digit_5" translatable="false">5</string>
+    <string name="digit_6" translatable="false">6</string>
+    <string name="digit_7" translatable="false">7</string>
+    <string name="digit_8" translatable="false">8</string>
+    <string name="digit_9" translatable="false">9</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_division_by_zero">Division by zero</string>
+    <string name="error_invalid_expression">Invalid expression</string>
+    <string name="error_invalid_symbol">Invalid symbol: %1$s</string>
+    <string name="error_unknown_operation">Unknown operation: %1$s</string>
+</resources>

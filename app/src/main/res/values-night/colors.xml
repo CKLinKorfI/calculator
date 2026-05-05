@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#000000</color>
+    <color name="display_text">#F5F5F5</color>
+    <color name="expression_text">#8A8A8A</color>
+
+    <color name="button_number_background">#151515</color>
+    <color name="button_number_background_pressed">#222222</color>
+    <color name="button_number_text">#F5F5F5</color>
+
+    <color name="button_operator_background">#151515</color>
+    <color name="button_operator_background_pressed">#222222</color>
+    <color name="button_operator_text">#CF6D3A</color>
+
+    <color name="button_equal_background">#CF6D3A</color>
+    <color name="button_equal_background_pressed">#B95F33</color>
+    <color name="button_equal_text">#FFFFFF</color>
+
+    <color name="button_stroke">#828282</color>
+</resources>
